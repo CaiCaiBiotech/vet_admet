@@ -1,0 +1,4 @@
+params,accuracy,roc_auc,sensitivity,specificity,precision,f1_score,weight_sum
+"{'max_depth': 50, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 600}",0.869994037563351,0.7037653347138878,0.30480480480480476,0.9363344051446945,,,0.8035025564235657
+"{'max_depth': 40, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 600}",0.869994037563351,0.7035625425697772,0.30480480480480476,0.9363344051446945,,,0.8034214395659215
+"{'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 600}",0.869994037563351,0.7035310570278417,0.2992492492492492,0.9369774919614148,,,0.8034088453491472
